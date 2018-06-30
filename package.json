@@ -1,6 +1,6 @@
 {
 "name": "cordova-cookie-master",
-"description": "This plugin enables the management of cookies in WebViews on iOS and Android as those platforms restrict the use of "document.cookie".",
+"description": "This plugin enables the management of cookies in WebViews on iOS and Android as those platforms restrict the use of document.cookie.",
 "version": "1.0.0",
 "homepage": "https://github.com/edwardgaoyb/cordova-cookie-master",
 "repository": {
