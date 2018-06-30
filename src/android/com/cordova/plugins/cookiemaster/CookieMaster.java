@@ -60,7 +60,9 @@ public class CookieMaster extends CordovaPlugin {
             });
             return true;
 
-        } else if (ACTION_GET_ALL_COOKIES_VALUE.equals(action)) {
+        }
+        
+        else if (ACTION_GET_ALL_COOKIES_VALUE.equals(action)) {
             final String url = args.getString(0);
 
             cordova.getThreadPool().execute(new Runnable() {
